@@ -1,6 +1,8 @@
 <?php
 
-//Route::redirect('/', '/admin');
+Route::redirect('/', '/admin');
+
+/*
 
 Route::get('/', 'WebsiteController@index');
 
@@ -15,6 +17,8 @@ Route::prefix('transfers-tours')->group(function () {
     Route::get('tour/{transfer_tour_id}', 'TransferToursController@tour');
     Route::post('send-request', 'TransferToursController@sendRequest');
 });
+
+*/
 
 Auth::routes(['register' => false]);
 
