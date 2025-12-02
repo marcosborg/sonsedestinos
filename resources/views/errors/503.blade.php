@@ -10,7 +10,7 @@
                 <h1>
                     Sons e Destinos</h1>
                 <h2>
-                    Indisponivel</h2>
+                    Indisponível</h2>
             </div>
         </div>
         <div class="col-md-6">
