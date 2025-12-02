@@ -8,17 +8,9 @@
         <div class="col-md-6">
             <div class="error-template">
                 <h1>
-                    ExpertCom</h1>
+                    Sons e Destinos</h1>
                 <h2>
-                    Temporariamente em manutenção</h2>
-                <h1>
-                    Voltaremos em breve!</h1>
-                <div>
-                    <p>
-                        Desculpe pelo inconveniente, mas estamos em manutenção no momento.
-                        Etaremos online em breve!</p>
-                    
-                </div>
+                    Indisponivel</h2>
             </div>
         </div>
         <div class="col-md-6">
